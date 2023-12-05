@@ -1,0 +1,20 @@
+
+
+.header-container {
+    background-color: #333;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .header-link {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .header-link:hover {
+    text-decoration: underline;
+  }
+  
